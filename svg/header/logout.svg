@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="18px" viewBox="0 0 11 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>Exit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hovered-version" transform="translate(-867.000000, -233.000000)" fill="#FFFFFF">
+            <path d="M870.204442,233 L870.204442,233.793022 L867.02634,233.793022 L867.02634,249.615424 L868.201282,249.615424 L868.201282,234.939582 L870.204442,234.939582 L870.204442,250.981744 L877.992367,249.615424 L877.992367,247.379663 L877.992367,234.369168 L870.204442,233 L870.204442,233 Z M871.637136,242.607144 C871.375344,242.607144 871.163088,242.337655 871.163088,242.005221 C871.163088,241.672824 871.375344,241.403335 871.637136,241.403335 C871.898929,241.403335 872.111184,241.672824 872.111184,242.005221 C872.111184,242.337655 871.898929,242.607144 871.637136,242.607144 L871.637136,242.607144 Z" id="Exit"></path>
+        </g>
+    </g>
+</svg>
